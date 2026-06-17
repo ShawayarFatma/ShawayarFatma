@@ -49,8 +49,8 @@ Skills: Excel, Data Cleaning, Dashboarding
 
 Connect
 
-* LinkedIn: 
-* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: https://linkedin.com/in/shawayar-fatma-256b761a9
+* GitHub: https://github.com/ShawayarFatma
 
 ⸻
 
