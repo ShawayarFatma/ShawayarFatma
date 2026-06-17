@@ -1,5 +1,62 @@
-- Hi , I'm Shawayar Fatma
+
 <!---
 ShawayarFatma/ShawayarFatma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can click the Preview link to take a look at your Hi, I’m Shawayar Fatma
+
+Data Analyst with expertise in SQL, Excel, Power BI, and Python, focused on transforming raw data into meaningful business insights through data cleaning, analysis, visualization, and dashboard development.
+
+⸻
+
+About Me
+
+* 🎓 M.Tech in Software Engineering, BITS Pilani WILP (2025)
+* 📊 Building end-to-end analytics projects using SQL, Excel, Power BI, and Python
+* 📈 Interested in business intelligence, reporting, and data-driven decision making
+* 🌱 Currently strengthening advanced SQL, data modeling, and analytics skills
+
+⸻
+
+Technical Skills
+
+Data Analysis & Visualization
+
+* SQL
+* Excel
+* Power BI
+* Python
+
+Python Libraries
+
+* Pandas
+
+Tools
+
+* Git
+* GitHub
+
+⸻
+
+Featured Projects
+
+🍽️ Danny’s Diner SQL Case Study
+
+Analyzed customer behavior, spending patterns, and loyalty program performance using advanced SQL queries, joins, CTEs, and window functions.
+
+Skills: SQL, Data Analysis, Business Insights
+
+📊 Sales Performance Analysis
+
+Performed sales and profitability analysis to identify key revenue drivers, top-performing products, and customer contribution trends.
+
+Skills: Excel, Data Cleaning, Dashboarding
+
+⸻
+
+Connect
+
+* LinkedIn: 
+* GitHub: https://github.com/YOUR_USERNAME
+
+⸻
+
+“Turning data into actionable insights through analysis, visualization, and storytelling.”
