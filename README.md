@@ -1,8 +1,3 @@
-
-<!---
-ShawayarFatma/ShawayarFatma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your Hi, I’m Shawayar Fatma
-
 Data Analyst with expertise in SQL, Excel, Power BI, and Python, focused on transforming raw data into meaningful business insights through data cleaning, analysis, visualization, and dashboard development.
 
 ⸻
