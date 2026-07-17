@@ -43,7 +43,7 @@ Skills: SQL, Data Analysis, Business Insights
 
 Performed sales and profitability analysis to identify key revenue drivers, top-performing products, and customer contribution trends.
 
-Skills: Excel, Data Cleaning, Dashboarding
+Skills: SQL, Excel, Data Cleaning, Dashboarding, Business Insights
 
 ⸻
 
