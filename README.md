@@ -33,7 +33,7 @@ Tools
 
 Featured Projects
 
-🍽️ Danny’s Diner SQL Case Study
+🍽️ 8-Week SQL Challenge
 
 Analyzed customer behavior, spending patterns, and loyalty program performance using advanced SQL queries, joins, CTEs, and window functions.
 
