@@ -20,7 +20,7 @@
 
 ### Python Libraries
 
-* Pandas
+* Pandas, Numpy
 
 ### Tools
 
