@@ -4,13 +4,9 @@
 ## About Me
 
 * 🎓M.Tech in Software Engineering, BITS Pilani WILP (2025)
-
 * 💻Background in software engineering with experience building and optimising data-driven applications.
-
 * 📊Interested in data analytics, exploratory data analysis, statistical analysis, and applied data science.
-
 * 🔍Enjoy exploring datasets, identifying patterns, and using analytical approaches to solve problems.
-
 * 🌱Currently strengthening my skills in SQL, Python, and data visualization through hands-on projects and continuous learning.
 
 
